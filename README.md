@@ -20,7 +20,7 @@ The initial alert analysis identified several indicators characterizing an activ
 
 ### General Event Information
 
-<img src="socalert/socalert2.png" width="900">
+<img src="alert.png" width="900">
 
 ---
 
